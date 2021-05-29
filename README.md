@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**tyteck/tyteck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Frédérick Tyteca and I'm a 🇫🇷️ developper currently living in a small village near Nice (on the french riviera).
+I'm developping web applications for more than 20 years 😨 *(with a short parenthesis as a project manager)*.
 
-Here are some ideas to get you started:
+- 📝 I'm currently working remotely for [Actual](https://www.groupeactual.eu/).
+- 🎡 I'm coding with Laravel, 🐘 (php), 🐋 (docker), ElasticSearch, html/css/javascript(vanilla)
+- 👷 Maker of [Podmytube](https://www.podmytube.com) and [Feedurl](https://feedurl.link)
+- 💬 Ask me about: podcasts, laravel, php, docker, elasticsearch.
+- 📬 Reach me: [Twitter](https://twitter.com/ftyteca).
+- ⚡ Fun fact: I'm a big fan of alternative universe like Invincible or the Marvel MCU.
+- 📖 Currently reading The pragmatic programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
