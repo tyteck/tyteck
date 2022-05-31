@@ -6,7 +6,7 @@ Married and father of 3 children, one of whom (my daughter) being disabled ♿
 
 - 📝 I'm currently developping remotely for [Actual](https://www.groupeactual.eu/).
 - 🎡 I'm coding with Laravel, 🐘 (php), 🐋 (docker), 🐧(Linux), ElasticSearch, html/css/javascript(vanilla)
-- In love with TALL stack (Tailwind Alpine Livewire Laravel) and TDD
+- 😍 In love with TALL stack (Tailwind Alpine Livewire Laravel) and TDD
 - 👷 Maker of [Podmytube](https://www.podmytube.com) and [Feedurl](https://feedurl.link)
 - 💬 Ask me about: podcasts, laravel, php, docker, elasticsearch.
 - 📬 Reach me: [Twitter](https://twitter.com/ftyteca).
